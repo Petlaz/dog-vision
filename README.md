@@ -1,6 +1,5 @@
-# Dog Vision: Dog Breed Identification
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](/content/drive/MyDrive/Colab Notebooks/dog-vision.ipynb)
+# Dog Breed Identification Using Deep Learning and Transfer Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rUh8ZLPylROONcYJtT-nW9xGwDfDNxcu?usp=sharing)
 
 ## Project Overview
 Dog Vision is a deep learning project that identifies dog breeds from images using transfer learning and convolutional neural networks (CNNs). This project demonstrates the application of TensorFlow and Keras in building a highly accurate image classification model, while also highlighting best practices in data preprocessing, model training, and evaluation.
